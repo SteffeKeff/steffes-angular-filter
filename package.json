@@ -1,0 +1,19 @@
+{
+  "name": "steffes-angular-filter",
+  "version": "1.0.0",
+  "description": "Steffes angular filter",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteffeKeff/steffes-angular-filter.git"
+  },
+  "author": "Stefan De Geer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SteffeKeff/steffes-angular-filter/issues"
+  },
+  "homepage": "https://github.com/SteffeKeff/steffes-angular-filter"
+}
