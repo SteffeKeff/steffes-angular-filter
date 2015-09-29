@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/SteffeKeff/steffes-angular-filter/issues"
   },
-  "homepage": "https://github.com/SteffeKeff/steffes-angular-filter"
+  "homepage": "https://github.com/SteffeKeff/steffes-angular-filter",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
+  }
 }

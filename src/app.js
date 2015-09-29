@@ -6,7 +6,7 @@ angular.module('steffeFilter', [])
 			if (angular.isString(input)) {
 				out = '';
 				for (i = 0; i < input.length; i++) {
-					out = input.charAt(i) + out;
+				out = input.charAt(i) + out;
 				}
 				return out;
 			} else {
